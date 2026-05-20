@@ -95,7 +95,7 @@ func main() {
 	var escolha int
 	var nome string
 
-	fmt.Println("Bem-vindo ao Go RPG!")
+	fmt.Println("Bem-vindo ao Go Battle!")
 	fmt.Print("Digite o nome do seu herói: ")
 	fmt.Scan(&nome)
 
