@@ -14,7 +14,7 @@ O **Go Battle!** é um jogo de combate por turnos simples, desenvolvido inteiram
 - **Geração Aleatória**: A vida do monstro e o dano de cada ataque são gerados aleatoriamente, tornando cada partida única.
 - **Interface de Consola**: Interação simples e direta através do terminal com emojis para uma experiência mais visual.
 
-## ecnologias Utilizadas
+## Tecnologias Utilizadas
 
 - **Go (Golang)**: Linguagem de programação principal.
 - **Pacotes Standard**:
@@ -49,7 +49,7 @@ Para jogar o **Go Battle!**, siga os passos abaixo:
 
 5.  **Siga as instruções no ecrã** para criar o seu herói e começar a batalha!
 
-## 🎮 Exemplo de Jogo
+## Exemplo de Jogo
 
 ```text
 Bem-vindo ao Go Battle!
