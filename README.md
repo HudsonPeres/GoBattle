@@ -29,7 +29,7 @@ Para jogar o **Go Battle!**, siga os passos abaixo:
 
 1.  **Ter o Go instalado** no seu sistema.
 
-2.  **Guarde o código** num ficheiro chamado `main.go`.
+2.  **Guarde o código** num ficheiro chamado `Gobattle.go`.
 
 3.  **Abra o terminal** e navegue até à pasta onde guardou o arquivo.
 
