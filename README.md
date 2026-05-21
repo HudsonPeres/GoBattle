@@ -2,7 +2,7 @@
 
 ## Visão Geral do Projeto
 
-O **Go Battle!** é um jogo de combate por turnos simples, desenvolvido inteiramente em **Go (Golang)**. O projeto demonstra conceitos fundamentais da linguagem, como interfaces, structs, métodos e lógica de jogo baseada em consola. Os jogadores podem escolher entre diferentes classes de heróis, cada uma com atributos e ataques únicos, para enfrentar monstros gerados aleatoriamente num combate até à morte.
+O **Go Battle!** é um jogo de combate por turnos simples, desenvolvido inteiramente em Go. O projeto demonstra conceitos fundamentais da linguagem, como interfaces, structs, métodos e lógica de jogo baseada em consola. Os jogadores podem escolher entre diferentes classes de heróis, cada uma com atributos e ataques únicos, para enfrentar monstros gerados aleatoriamente num combate até à morte.
 
 ## Funcionalidades
 
@@ -13,14 +13,6 @@ O **Go Battle!** é um jogo de combate por turnos simples, desenvolvido inteiram
 - **Combate por Turnos**: Sistema de batalha automatizado onde o jogador e o monstro atacam alternadamente.
 - **Geração Aleatória**: A vida do monstro e o dano de cada ataque são gerados aleatoriamente, tornando cada partida única.
 - **Interface de Consola**: Interação simples e direta através do terminal com emojis para uma experiência mais visual.
-
-## Tecnologias Utilizadas
-
-- **Go (Golang)**: Linguagem de programação principal.
-- **Pacotes Standard**:
-  - `fmt`: Para entrada e saída formatada.
-  - `math/rand`: Para geração de números aleatórios.
-  - `time`: Para controlar o ritmo do combate.
 
 ## Estrutura do Código
 
@@ -46,27 +38,6 @@ Para jogar o **Go Battle!**, siga os passos abaixo:
     ```bash
     go run Gobattle.go
     ```
-
-5.  **Siga as instruções no ecrã** para criar o seu herói e começar a batalha!
-
-## Exemplo de Jogo
-
-```text
-Bem-vindo ao Go Battle!
-Digite o nome do seu herói: Manus
-
-Escolha sua classe:
-1) Guerreiro (Vida: 20)
-2) Mago (Vida: 10)
-Digite o número: 1
-
---- O COMBATE COMEÇOU! O Monstro tem 12 de vida ---
-João deu uma espadada e causou 5 de dano!
-Vida do Monstro: 7
-O Monstro atacou! Causou 2 de dano.
-Sua Vida: 18
-...
-```
 
 ## Créditos
 
